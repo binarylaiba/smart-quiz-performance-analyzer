@@ -56,3 +56,20 @@ py quiz_system.py
 ```bash
 py main.py --cli
 ```
+
+---
+
+## Application Screenshots
+
+### 1. Main Dashboard
+![Main Dashboard](screenshots/01_dashboard.png)
+
+### 2. Interactive Quiz Runner
+![Quiz Question](screenshots/02_quiz_question.png)
+
+### 3. Quiz Results & Weak Area Diagnostics
+![Quiz Results](screenshots/03_quiz_results.png)
+
+### 4. Multi-Attempt Performance Analytics
+![Performance Analytics](screenshots/04_performance_analysis.png)
+
